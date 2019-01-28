@@ -20,7 +20,7 @@ INSERT INTO train_for_more_than_three_months_pls VALUES('ON HALT bc','Shin', 'Sp
 INSERT INTO train_for_more_than_three_months_pls VALUES('2019-01-17','Thu', 'Easy', 1.5);
 INSERT INTO train_for_more_than_three_months_pls VALUES('2019-01-19','Sat', 'Easy', 3.3);
 INSERT INTO train_for_more_than_three_months_pls VALUES('2019-01-23','Wed', 'Tempo', 4.5);
-INSERT INTO train_for_more_than_three_months_pls VALUES('2019-01-27','Sun', 'LSD', 11);
+INSERT INTO train_for_more_than_three_months_pls VALUES('2019-01-27','Sun', 'LSD', 13);
 
 /* Display all logged practices from the table */
 SELECT * FROM train_for_more_than_three_months_pls;
